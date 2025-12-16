@@ -1,0 +1,4 @@
+erro: falha no sistema
+Tudo OK
+ERRO: ligação perdida
+erro desconhecido
