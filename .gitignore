@@ -1,0 +1,15 @@
+# Tokens / secrets
+TOKKEN GIT.txt
+*.token
+*.secret
+
+# Logs e outputs gerados
+erros.txt
+erros_ordenados.txt
+relatorio_logs.txt
+backup/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

@@ -1,3 +1,0 @@
-erro: falha no sistema
-ERRO: ligação perdida
-erro desconhecido

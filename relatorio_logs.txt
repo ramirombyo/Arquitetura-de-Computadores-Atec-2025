@@ -1,2 +1,0 @@
-./logs/sistema.log
-./teste1.log
